@@ -26,4 +26,4 @@ The build bundles and minifies the CSS and JavaScript, rewrites the templates to
 those bundles, and copies the server, its data, the manifests, and the `Dockerfile` into
 `dist/`.
 
-See [structure.md](structure.md) for a tour of the layout.
+See [structure.md](structure.md) for a tour of the layout.?
